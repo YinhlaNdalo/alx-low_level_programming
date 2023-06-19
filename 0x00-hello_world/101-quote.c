@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  * main - C program that prints exactly a line
- * Return: 1 (Success)
+ * Return: 1 (success)
  */
 int main(void)
 {
