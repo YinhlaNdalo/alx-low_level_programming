@@ -5,6 +5,7 @@
 * @c: The character to print
 *
 * Return: 1 (success)
+*
 * On error, -1 is returned, and errno is set appropriately.
 */
 
