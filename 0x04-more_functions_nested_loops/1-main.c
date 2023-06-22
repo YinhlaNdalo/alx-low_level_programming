@@ -2,10 +2,11 @@
 #include <stdio.h>
 
 /**
- * main - check the digit
+ * main - check the code
  *
  * Return: Always 0.
  */
+
 int main(void)
 {
     char c;
