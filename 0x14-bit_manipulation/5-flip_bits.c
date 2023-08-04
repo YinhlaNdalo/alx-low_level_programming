@@ -2,8 +2,8 @@
 
 /**
  * flip_bits - function to counts the num of bits to change
- * @n: 1st 
- * @m: 2nd 
+ * @n: 1st
+ * @m: 2nd
  *
  * Return: num of bits to change
  */
