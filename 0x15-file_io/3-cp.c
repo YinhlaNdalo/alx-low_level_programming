@@ -6,7 +6,7 @@ char *create_buffer(char *file);
 void close_file(int fd);
 
 /**
- * create_buffer - creates a buffer.
+ * create_buffer - function to creates a buffer.
  * @file: file buffer is storing to.
  *
  * Return: newly-allocated buffer.
